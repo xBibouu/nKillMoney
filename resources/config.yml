@@ -1,0 +1,3 @@
+money: 100
+message: "§aVous avez reçu {money}$ pour avoir tué un joueur"
+# Utilise {money} pour l'argent

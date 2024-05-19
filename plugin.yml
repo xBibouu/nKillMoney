@@ -1,0 +1,7 @@
+name: nKillMoney
+version: 1.0
+api: 5.0.0
+main: xBibouKillMoney\Main
+author: xBibou
+
+# .gg/pocketmine
